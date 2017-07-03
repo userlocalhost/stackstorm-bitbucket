@@ -19,7 +19,5 @@ test:
 
 deployment:
   index:
-    branch: master
-    owner: StackStorm-Exchange
     commands:
       - ~/ci/.circle/deployment
